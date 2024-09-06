@@ -14,10 +14,15 @@ determine the effectiveness and viability of new developing treatments.
 
 Q3: What is the difference between merging and rebasing?
 
-Merging takes the new commits in the original branch which were made after the new branch was created,
+Answer: Merging takes the new commits in the original branch which were made after the new branch was created,
 and makes a commit onto the new branch with those changes, incorporating the changes. Merge conflicts will need
 to be resolved.
 
 Rebasing takes the new branch and adds it onto the end of the original branch, resulting in only one branch that
 contains the commits of both the original and new branches. This creates a linear history, as opposed to merging,
 which still results in two seperate commit histories.
+
+Q3: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my ability to collect data, analyze it, and make valid predictions based upon that analysis.
+I also hope to improve my data science background in order to succeed in future machine learning classes.
