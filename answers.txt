@@ -1,0 +1,5 @@
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science could be applied to the medical field to better analyze patient outcomes and responses to new
+treatments. Knowing how patients react to treatments and collecting data related to trials will allow researchers to
+determine the effectiveness and viability of new developing treatments.
